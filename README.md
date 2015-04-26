@@ -46,7 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [PaaS与IaaS 在微服务架构实现方面的6大不同  PaaS vs. IaaS for Microservices Architectures: Top 6 Differences in Chinese](http://weibo.com/p/1001603827173176797988)
 * [ O’Reilly Software Architecture Conference大会上对微服务架构的探讨总结](http://radar.oreilly.com/2015/04/4-reasons-why-microservices-resonate.html)
 * [Microservices Are Not a free lunch!](http://contino.co.uk/microservices-not-a-free-lunch/)
-
+* [The Hidden Costs of Microservices by Justin Leitgeb](http://www.stackbuilders.com/news/the-hidden-costs-of-microservices)
 
 
 ## Books About Microservice
