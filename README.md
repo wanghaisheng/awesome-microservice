@@ -71,6 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Microservices at Netflix](https://www.youtube.com/watch?v=LEcdWVfbHvc)
 * [Microservices: Adaptive Systems for Innovative Organizations](https://www.youtube.com/watch?v=GDVcUM5wbxU)
 * [Pros and Cons of a MicroServices Architecture talk at AWS ReInvent](http://www.slideshare.net/stonse/pros-and-cons-of-a-microservices-architecture-talk-at-aws-reinvent)
+* [Chris Richardson: Developing event-driven microservices with event sourcing and CQRS](https://www.youtube.com/watch?v=9XhBPFjD0hw)
 
 ## Events
 
