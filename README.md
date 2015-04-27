@@ -32,9 +32,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Client-side discovery from Chris Richardson](http://microservices.io/patterns/client-side-discovery.html)
 * [Server-side discovery from Chris Richardson ](http://microservices.io/patterns/apigateway.html)
-* [Service registry from Chris Richardson]](http://microservices.io/patterns/apigateway.html)
-* [Self registration from Chris Richardson]](http://microservices.io/patterns/apigateway.html)
-* [3rd party registration from Chris Richardson]](http://microservices.io/patterns/apigateway.html)
+* [Service registry from Chris Richardson](http://microservices.io/patterns/apigateway.html)
+* [Self registration from Chris Richardson](http://microservices.io/patterns/apigateway.html)
+* [3rd party registration from Chris Richardson](http://microservices.io/patterns/apigateway.html)
 
 
 
