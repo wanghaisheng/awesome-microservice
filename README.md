@@ -125,6 +125,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * Sam Newman
 * Russ Miles
 * Martin Fowler
+* Chris Richardson
 * Daniel Woods
 
 ## Discussion Group
