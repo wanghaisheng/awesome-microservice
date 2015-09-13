@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [API Gateway from Chris Richardson](http://microservices.io/patterns/apigateway.html)
 * [Bounded Context from Martin Fowler](http://martinfowler.com/bliki/BoundedContext.html)
 * [Circuit Breaker from Martin Fowler](http://martinfowler.com/bliki/CircuitBreaker.html)
+* [Circuit Breaker ~ netflix](http://doc.akka.io/docs/akka/snapshot/common/circuitbreaker.html)
 
 #### Deployment patterns
 
@@ -35,8 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Service registry from Chris Richardson](http://microservices.io/patterns/apigateway.html)
 * [Self registration from Chris Richardson](http://microservices.io/patterns/apigateway.html)
 * [3rd party registration from Chris Richardson](http://microservices.io/patterns/apigateway.html)
-
-
+* [Service discovery with consul & etcd](https://aws.amazon.com/blogs/compute/service-discovery-via-consul-with-amazon-ecs/)
 
 
 
@@ -94,6 +94,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 *   [Eric Evans - Domain Driven Design: Tackling Complexity in the Heart of Software](http://www.amazon.co.uk/Domain-driven-Design-Tackling-Complexity-Software/dp/0321125215)
 *   [Uncle Bob - Microservices and Jars](http://blog.cleancoder.com/uncle-bob/2014/09/19/MicroServicesAndJars.html)
 *   [Steve Jones - Microservices - Money for old rope or re-badging SOA for the cool kids](http://service-architecture.blogspot.co.uk/2014/03/microservices-money-for-old-rope-or-re.html)
+*   [Sonu K. Meena - How to build microservice?](https://www.linkedin.com/pulse/how-build-microservice-sonu-meena)
 
 
 ### Example Projects
