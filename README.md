@@ -72,6 +72,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Microservices: Adaptive Systems for Innovative Organizations](https://www.youtube.com/watch?v=GDVcUM5wbxU)
 * [Pros and Cons of a MicroServices Architecture talk at AWS ReInvent](http://www.slideshare.net/stonse/pros-and-cons-of-a-microservices-architecture-talk-at-aws-reinvent)
 * [Chris Richardson: Developing event-driven microservices with event sourcing and CQRS](https://www.youtube.com/watch?v=9XhBPFjD0hw)
+* [微服务  在InfoQ上的内容](http://www.infoq.com/cn/microservice)
+* [Microservices  on  InfoQ website](http://www.infoq.com/cn/microservice)
 
 ## Events
 
@@ -135,4 +137,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 Many thanks to [Owain Lewis](https://github.com/owainlewis/microservice-design)
-and [Chris Richardson](http://microservices.io/index.html)
+and [Chris Richardson](http://microservices.io/index.html) [i5ting](https://github.com/i5ting)
