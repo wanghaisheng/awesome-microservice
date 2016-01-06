@@ -97,7 +97,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 *   [Uncle Bob - Microservices and Jars](http://blog.cleancoder.com/uncle-bob/2014/09/19/MicroServicesAndJars.html)
 *   [Steve Jones - Microservices - Money for old rope or re-badging SOA for the cool kids](http://service-architecture.blogspot.co.uk/2014/03/microservices-money-for-old-rope-or-re.html)
 *   [Sonu K. Meena - How to build microservice?](https://www.linkedin.com/pulse/how-build-microservice-sonu-meena)
-
+*	[Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
+*	[微服务实战（一）：微服务架构的优势与不足](http://dockone.io/article/394)
+*	[Building Microservices: Using an API Gateway ](http://nginx.com/blog/building-microservices-using-an-api-gateway/)
+*	[微服务实战（二）：使用API Gateway](http://dockone.io/article/482)
+*   [Building Microservices: Inter-Process Communication in a Microservices Architecture](https://www.nginx.com/blog/building-microservices-inter-process-communication/)
+*   [微服务实战（三）：深入微服务架构的进程间通信](http://dockone.io/article/549)
+*	[微服务实战（四）：服务发现的可行方案以及实践案例](http://dockone.io/article/771)
+*	[Service Discovery in a Microservices Architecture ](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
+*	[Event-Driven Data Management for Microservices](https://www.nginx.com/blog/event-driven-data-management-microservices/)
+*	[微服务实践（五）：微服务的事件驱动数据管理](http://dockone.io/article/936)
 
 ### Example Projects
 
