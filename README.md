@@ -107,6 +107,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 *	[Service Discovery in a Microservices Architecture ](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
 *	[Event-Driven Data Management for Microservices](https://www.nginx.com/blog/event-driven-data-management-microservices/)
 *	[微服务实践（五）：微服务的事件驱动数据管理](http://dockone.io/article/936)
+*	[0 to Microservice in 5 minutes with Go, go-microservice-template and Minke](http://nicholasjackson.github.io/microservices/go/building-and-testing-microservices-part1/)
+*	[5分钟学习基于Go，go-microservice-template，Minke的微服务](http://dockone.io/article/1117)
+*	[IS REST BEST IN A MICROSERVICES ARCHITECTURE?](http://capgemini.github.io/architecture/is-rest-best-microservices/)
+*	[REST真的完全适合微服务架构吗？](http://dockone.io/article/952)
+*	[ Microservice架构模式简介 ](http://www.cnblogs.com/loveis715/p/4644266.html)
+*	[单元化与分布式架构的切分问题](http://timyang.net/architecture/cell-distributed-system/)
+*	[ 一个单元化架构的例子](http://mp.weixin.qq.com/s?__biz=MzI5MDE1NjkyNw==&mid=409213079&idx=1&sn=55326805b08b84d86c4e02bc405d0bbe&scene=2&srcid=041143B6BQTKvXlHVsDGbN1V&from=timeline&isappinstalled=0#wechat_redirect)
+
 
 ### Example Projects
 
