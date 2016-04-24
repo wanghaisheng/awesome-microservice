@@ -114,6 +114,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 *	[ Microservice架构模式简介 ](http://www.cnblogs.com/loveis715/p/4644266.html)
 *	[单元化与分布式架构的切分问题](http://timyang.net/architecture/cell-distributed-system/)
 *	[ 一个单元化架构的例子](http://mp.weixin.qq.com/s?__biz=MzI5MDE1NjkyNw==&mid=409213079&idx=1&sn=55326805b08b84d86c4e02bc405d0bbe&scene=2&srcid=041143B6BQTKvXlHVsDGbN1V&from=timeline&isappinstalled=0#wechat_redirect)
+*	[ Microservice微服务架构两年来在京东咚咚从理论到落地的实践总结](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=2650610530&idx=1&sn=acd24986fe42181fcd81496f7a922f33&scene=0#wechat_redirect)
 
 
 ### Example Projects
