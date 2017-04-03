@@ -59,6 +59,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Antifragile Software - Russ Miles](https://leanpub.com/antifragilesoftware)
 * [software-architecture-patterns from O`REILLY in English](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 * [software-architecture-patterns from O`REILLY in Chinese](https://raw.githubusercontent.com/bboyfeiyu/android-tech-frontier/master/software-architecture-patterns/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F.pdf)
+* [Production Ready Microservices - Susan J. Fowler](http://shop.oreilly.com/product/0636920053675.do)
+* [Microservices in Production - Susan J. Fowler (free ebook)](http://www.oreilly.com/programming/free/microservices-in-production.csp)
 
 ## Online Videos and Presentations
 
