@@ -61,6 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [software-architecture-patterns from O`REILLY in Chinese](https://raw.githubusercontent.com/bboyfeiyu/android-tech-frontier/master/software-architecture-patterns/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F.pdf)
 * [Production Ready Microservices - Susan J. Fowler](http://shop.oreilly.com/product/0636920053675.do)
 * [Microservices in Production - Susan J. Fowler (free ebook)](http://www.oreilly.com/programming/free/microservices-in-production.csp)
+* [Microservices with Docker, Flask, and React - Michael Herman](https://testdriven.io/)
 
 ## Online Videos and Presentations
 
