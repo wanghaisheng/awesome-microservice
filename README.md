@@ -138,6 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [ This is a presentation on Docker held at FINN Architecture Summit - Service Orientation on 2015.01.21.](https://github.com/finn-no/Docker-and-Microservices)
 * [ Dummy project to try out new tools for me like Docker and RabbitMQ](https://github.com/jordi-chacon/dummy-dockerized-microservices)
 * [ OAuth2 authentication server designed to work in a docker-based microservices architecture.](https://github.com/nielskrijger/auth-server)
+* [ Example on how to scale microservices with message queues, Kubernetes and Spring Boot](https://learnk8s.io/blog/scaling-spring-boot-microservices)
 
 ### Library and Tools
 
