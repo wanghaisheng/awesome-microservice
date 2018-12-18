@@ -139,6 +139,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [ Dummy project to try out new tools for me like Docker and RabbitMQ](https://github.com/jordi-chacon/dummy-dockerized-microservices)
 * [ OAuth2 authentication server designed to work in a docker-based microservices architecture.](https://github.com/nielskrijger/auth-server)
 * [ Example on how to scale microservices with message queues, Kubernetes and Spring Boot](https://learnk8s.io/blog/scaling-spring-boot-microservices)
+* [Production ready multi-tenant microservices. Business microservice can be built on top of it.](https://github.com/mmahmoodictbd/production-ready-microservices-starter)
 
 ### Library and Tools
 
