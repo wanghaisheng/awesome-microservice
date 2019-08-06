@@ -62,6 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Production Ready Microservices - Susan J. Fowler](http://shop.oreilly.com/product/0636920053675.do)
 * [Microservices in Production - Susan J. Fowler (free ebook)](http://www.oreilly.com/programming/free/microservices-in-production.csp)
 * [Microservices with Docker, Flask, and React - Michael Herman](https://testdriven.io/)
+* [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 
 ## Online Videos and Presentations
 
