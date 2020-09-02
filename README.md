@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Microservices in Production - Susan J. Fowler (free ebook)](http://www.oreilly.com/programming/free/microservices-in-production.csp)
 * [Microservices with Docker, Flask, and React - Michael Herman](https://testdriven.io/)
 * [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
+* [Unified Logging with Fluentd](https://www.manning.com/books/unified-logging-with-fluentd)
 
 ## Online Videos and Presentations
 
