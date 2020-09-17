@@ -65,6 +65,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Microservices with Docker, Flask, and React - Michael Herman](https://testdriven.io/)
 * [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 * [Unified Logging with Fluentd](https://www.manning.com/books/unified-logging-with-fluentd)
+* [Spring Microservices in Action, Second Edition](https://www.manning.com/books/spring-microservices-in-action-second-edition)
 
 ## Online Videos and Presentations
 
