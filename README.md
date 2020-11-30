@@ -67,6 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 * [Unified Logging with Fluentd](https://www.manning.com/books/unified-logging-with-fluentd)
 * [Spring Microservices in Action, Second Edition](https://www.manning.com/books/spring-microservices-in-action-second-edition)
+* [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile)
 
 ## Online Videos and Presentations
 
