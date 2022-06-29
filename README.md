@@ -68,6 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Unified Logging with Fluentd](https://www.manning.com/books/unified-logging-with-fluentd)
 * [Spring Microservices in Action, Second Edition](https://www.manning.com/books/spring-microservices-in-action-second-edition)
 * [Microservices in .NET, Second Edition](https://www.manning.com/books/microservices-in-net-second-edition)
+* [Designing Microservices](https://www.manning.com/books/designing-microservices)
 
 ## Online Videos and Presentations
 
