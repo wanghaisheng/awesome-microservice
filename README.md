@@ -70,6 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Spring Microservices in Action, Second Edition](https://www.manning.com/books/spring-microservices-in-action-second-edition)
 * [Microservices in .NET, Second Edition](https://www.manning.com/books/microservices-in-net-second-edition)
 * [Designing Microservices](https://www.manning.com/books/designing-microservices)
+* [The Tao of Microservices, Second Edition](https://www.manning.com/books/the-tao-of-microservices-second-edition)
 
 ## Online Videos and Presentations
 
