@@ -52,6 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Books About Microservice
 
 * [Bootstrapping Microservices](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform) by [Ashley Davis](https://twitter.com/ashleydavis75).
+* [Bootstrapping Microservices with Docker, Kubernetes, and Terraform, Second Edition](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform-second-edition) by [Ashley Davis](https://twitter.com/ashleydavis75).
 * [Antifragile: Things That Gain from Disorder](http://www.amazon.com/gp/product/0812979680)
 * [The Black Swan](http://www.amazon.com/The-Black-Swan-Improbable-Robustness/dp/081297381X)
 * [Implementing Domain-Driven Design](http://www.amazon.co.uk/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
@@ -69,6 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Spring Microservices in Action, Second Edition](https://www.manning.com/books/spring-microservices-in-action-second-edition)
 * [Microservices in .NET, Second Edition](https://www.manning.com/books/microservices-in-net-second-edition)
 * [Designing Microservices](https://www.manning.com/books/designing-microservices)
+* [The Tao of Microservices, Second Edition](https://www.manning.com/books/the-tao-of-microservices-second-edition)
 
 ## Online Videos and Presentations
 
@@ -125,6 +127,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 *	[单元化与分布式架构的切分问题](http://timyang.net/architecture/cell-distributed-system/)
 *	[ 一个单元化架构的例子](http://mp.weixin.qq.com/s?__biz=MzI5MDE1NjkyNw==&mid=409213079&idx=1&sn=55326805b08b84d86c4e02bc405d0bbe&scene=2&srcid=041143B6BQTKvXlHVsDGbN1V&from=timeline&isappinstalled=0#wechat_redirect)
 *	[ Microservice微服务架构两年来在京东咚咚从理论到落地的实践总结](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=2650610530&idx=1&sn=acd24986fe42181fcd81496f7a922f33&scene=0#wechat_redirect)
+* [Richard Rodger - Learn the Theory behind Microservice-Based Systems by Using Them in Practice](https://freecontent.manning.com/learn-the-theory-behind-microservice-based-systems-by-using-them-in-practice/)
 
 
 ### Example Projects
